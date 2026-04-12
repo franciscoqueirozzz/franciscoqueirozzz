@@ -45,7 +45,7 @@ e construção de soluções eficientes através da tecnologia.
 
 🔹 Desenvolvimento de aplicações web utilizando HTML e CSS  
 🔹 Projetos acadêmicos focados em lógica e programação  
-🔹 Desenvolvimento de soluções utilizando Java  
+🔹 Desenvolvimento de soluções utilizando Java e Python 
 
 ---
 
