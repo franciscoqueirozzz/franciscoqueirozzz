@@ -33,8 +33,8 @@ Sou estudante de **Engenharia de Software na FIAP**, com grande interesse por te
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=franciscoqueirozzz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do Francisco" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoqueirozzz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais utilizadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=franciscoqueirozzz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Francisco" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoqueirozzz&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
