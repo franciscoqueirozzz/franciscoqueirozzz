@@ -1,93 +1,93 @@
 <h1 align="center">Francisco Queiroz</h1>
 
 <p align="center">
-Software Engineering Student • Developer in Training
+Estudante de Engenharia de Software • Desenvolvedor em Formação
 </p>
 
 <p align="center">
-Focused on software development, programming logic, databases and building efficient technological solutions through continuous learning and practical projects.
+Focado em desenvolvimento de software, lógica de programação, banco de dados e construção de soluções tecnológicas através de projetos acadêmicos e aprendizado contínuo.
 </p>
 
 ---
 
-## About Me
+## Sobre mim
 
-Software Engineering student at FIAP with interest in software development, technology and problem solving.
+Estudante de Engenharia de Software na FIAP, com interesse em desenvolvimento de software, tecnologia e resolução de problemas.
 
-Currently developing knowledge in:
+Atualmente desenvolvendo conhecimentos em:
 - Java
 - Python
-- Object-Oriented Programming
-- Databases
-- Algorithms and Data Structures
-- Software Engineering
-- Agile Methodologies
+- Programação Orientada a Objetos
+- Banco de Dados
+- Algoritmos e Estrutura de Dados
+- Engenharia de Software
+- Metodologias Ágeis
 
-Focused on building a strong technical foundation through academic and personal projects.
+Buscando evolução constante através de estudos, projetos práticos e desenvolvimento técnico.
 
 ---
 
-## Technologies & Tools
+## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql,git,github,idea" />
 </p>
 
 ---
 
-## GitHub Statistics
+## Estatísticas GitHub
 
 <p align="center">
 
   <img 
     height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=franciscoqueirozzz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
   />
 
   <img 
     height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoqueirozzz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
   />
 
 </p>
 
 ---
 
-## Academic Focus
+## Áreas de Estudo
 
-- Software Development
-- Object-Oriented Programming
-- Algorithms and Programming Logic
-- Database Modeling
-- REST APIs
-- Software Engineering Concepts
-- Scrum and Agile Methodologies
-
----
-
-## Featured Projects
-
-### Commercial Meeting Management System
-Java application developed using Object-Oriented Programming concepts for managing meetings, clients and sales processes.
-
-### Academic Development Projects
-Projects focused on:
-- Algorithms
-- Data Structures
-- Java Programming
-- UML Modeling
-- Database Concepts
+- Desenvolvimento de Software
+- Programação Orientada a Objetos
+- Algoritmos e Lógica de Programação
+- Modelagem de Banco de Dados
+- APIs REST
+- Engenharia de Software
+- Scrum e Metodologias Ágeis
 
 ---
 
-## Education
+## Projetos Acadêmicos
 
-**FIAP — Software Engineering**  
-Bachelor’s Degree in Software Engineering
+### Sistema de Gerenciamento de Reuniões Comerciais
+Aplicação Java desenvolvida utilizando conceitos de Programação Orientada a Objetos para gerenciamento de reuniões, clientes e processos comerciais.
+
+### Projetos de Desenvolvimento
+Projetos voltados para:
+- Algoritmos
+- Estrutura de Dados
+- Programação Java
+- Modelagem UML
+- Banco de Dados
 
 ---
 
-## Contact
+## Formação
+
+**FIAP — Engenharia de Software**  
+Bacharelado em Engenharia de Software
+
+---
+
+## Contato
 
 <p>
 LinkedIn:<br>
@@ -104,5 +104,5 @@ franciscoqueiro1@gmail.com
 ---
 
 <p align="center">
-Focused on continuous learning and professional development through technology and software engineering.
+Desenvolvendo conhecimento técnico através de prática, aprendizado contínuo e projetos de software.
 </p>
