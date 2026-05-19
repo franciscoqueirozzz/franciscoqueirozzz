@@ -31,9 +31,6 @@
 
 #  Estatísticas do GitHub
 
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoqueirozzz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscoqueirozzz&theme=tokyonight&hide_border=true" />
