@@ -1,4 +1,6 @@
-<h1 align="center">Francisco Queiroz</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=Francisco+Queiroz" />
+</h1>
 
 ---
 
