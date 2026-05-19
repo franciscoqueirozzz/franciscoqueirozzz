@@ -1,5 +1,5 @@
 <h1 align="center">
-  <font size="7">Francisco Queiroz</font>
+  <font size="10">Francisco Queiroz</font>
 </h1>
 
 ---
@@ -50,9 +50,9 @@
 </p>
 ---
 
-# 📌 Projetos em Destaque
+#  Projetos em Destaque
 
-### 💼 Sistema de Gerenciamento de Reuniões
+###  Sistema de Gerenciamento de Reuniões
 Sistema desenvolvido em Java utilizando conceitos de:
 - POO
 - Herança
@@ -62,7 +62,7 @@ Sistema desenvolvido em Java utilizando conceitos de:
 
 ---
 
-### 🏥 Sistema Hospitalar
+###  Sistema Hospitalar
 Projeto acadêmico focado em:
 - Cadastro de pacientes
 - Modelagem UML
@@ -71,7 +71,7 @@ Projeto acadêmico focado em:
 
 ---
 
-### 📚 Estudos e Algoritmos
+###  Estudos e Algoritmos
 Repositório dedicado à prática de:
 - Lógica de programação
 - Estruturas de repetição
@@ -80,16 +80,16 @@ Repositório dedicado à prática de:
 
 ---
 
-# 🎯 Objetivos
+#  Objetivos
 
-✔️ Conseguir minha primeira oportunidade como desenvolvedor  
-✔️ Evoluir no ecossistema Java  
-✔️ Aprender Spring Boot e desenvolvimento de APIs  
-✔️ Construir projetos completos e escaláveis  
+ Conseguir minha primeira oportunidade como desenvolvedor  
+ Evoluir no ecossistema Java  
+ Aprender Spring Boot e desenvolvimento de APIs  
+ Construir projetos completos e escaláveis  
 
 ---
 
-# 📫 Contato
+#  Contato
 
 <p align="center">
   <a href="mailto:franciscoqueiro1@gmail.com">
