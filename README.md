@@ -6,20 +6,20 @@
 
 # 👨‍💻 Sobre Mim
 
-🎓 Estudante de **Engenharia de Software na FIAP**  
-💻 Focado em desenvolvimento backend com **Java**  
-📚 Estudando constantemente conceitos de:
+ Estudante de **Engenharia de Software na FIAP**  
+ Focado em desenvolvimento backend com **Java**  
+ Estudando constantemente conceitos de:
 - Programação Orientada a Objetos (POO)
 - Estrutura de Dados e Algoritmos
 - Banco de Dados e SQL
 - APIs REST
 - Engenharia de Software e Scrum
 
-🚀 Buscando evoluir através de projetos práticos, desafios técnicos e aprendizado contínuo.
+ Buscando evoluir através de projetos práticos, desafios técnicos e aprendizado contínuo.
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+#  Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css,git,github,idea,vscode" />
@@ -27,7 +27,7 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
+#  Estatísticas do GitHub
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=franciscoqueirozzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -41,11 +41,8 @@
 
 ---
 
-# 📈 Resumo do Perfil
+#  Resumo do Perfil
 
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciscoqueirozzz&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franciscoqueirozzz&theme=tokyonight" />
