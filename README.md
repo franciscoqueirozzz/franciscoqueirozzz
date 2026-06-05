@@ -1,110 +1,31 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:111827&height=220&section=header&text=Francisco%20Queiroz&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Backend%20Developer&descAlignY=58&descSize=18&descColor=94A3B8" />
-</p>
+# Olá 👋, eu sou o Francisco Queiroz
+
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+Focado no desenvolvimento de soluções robustas, escaláveis e na aplicação prática de arquiteturas limpas em Java (DDD). Atualmente, aprofundando conhecimentos em monitoramento ambiental, telemetria e microsserviços através do ecossistema corporativo **FireShield**.
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][seu-link-linkedin]
+[![Gmail](https://img.shields.io/badge/M_GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
 ---
 
-# Sobre Mim
+## 🛠️ Tecnologias e Ferramentas
 
-Estudante de **Engenharia de Software na FIAP**  
-Focado em desenvolvimento backend com **Java**
+### Linguagens e Frameworks
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Atualmente estudando:
-- Programação Orientada a Objetos (POO)
-- Estrutura de Dados e Algoritmos
-- Banco de Dados e SQL
-- APIs REST
-- Engenharia de Software e Scrum
-
-Buscando evoluir através de projetos práticos, desafios técnicos e aprendizado contínuo.
-
----
-
-# Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css,git,github,idea,vscode" />
-</p>
+### Infraestrutura & Bancos de Dados
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscoqueirozzz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F2937&ring=64748B&fire=64748B&currStreakLabel=CBD5E1" />
-</p>
-
----
-
-# Resumo do Perfil
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciscoqueirozzz&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franciscoqueirozzz&theme=github_dark" />
-  
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franciscoqueirozzz&theme=github_dark" />
-  
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franciscoqueirozzz&theme=github_dark" />
-</p>
-
----
-
-# Projetos em Destaque
-
-### Sistema de Gerenciamento de Reuniões
-Sistema desenvolvido em Java utilizando:
-- POO
-- Herança
-- Encapsulamento
-- Estruturas de Dados
-- Organização em Pacotes
-
----
-
-### Sistema Hospitalar
-Projeto acadêmico focado em:
-- Cadastro de pacientes
-- Modelagem UML
-- Integração com banco de dados
-- Regras de negócio
-
----
-
-### Estudos e Algoritmos
-Repositório dedicado à prática de:
-- Lógica de programação
-- Estruturas de repetição
-- Métodos e funções
-- Exercícios em Java e Python
-
----
-
-# Objetivos
-
-- Conseguir minha primeira oportunidade como desenvolvedor
-- Evoluir no ecossistema Java
-- Aprender Spring Boot e desenvolvimento de APIs
-- Construir projetos completos e escaláveis
-
----
-
-# Contato
-
-<p align="center">
-  <a href="mailto:franciscoqueiro1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=E2E8F0"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/francisco-queiroz-865180274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=E2E8F0"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:111827&height=120&section=footer"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoqueirozzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoqueirozzz&layout=compact&theme=dark" />
 </p>
