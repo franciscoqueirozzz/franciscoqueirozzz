@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Francisco Queiroz
 
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-Focado no desenvolvimento de soluções robustas, escaláveis e na aplicação prática de arquiteturas limpas em Java (DDD). Atualmente, aprofundando conhecimentos em monitoramento ambiental, telemetria e microsserviços através do ecossistema corporativo **FireShield**.
+Estudante de Engenharia de Software na FIAP
+Focado no desenvolvimento de soluções robustas, escaláveis e na aplicação prática de arquiteturas limpas em Java (DDD).
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-queiroz-865180274?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/M_GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscoqueiro1@gmail.com)
