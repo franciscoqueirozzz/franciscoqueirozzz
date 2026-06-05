@@ -28,13 +28,11 @@
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franciscoqueirozzz&theme=github_dark)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscoqueirozzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franciscoqueirozzz&theme=github_dark)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoqueirozzz&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciscoqueirozzz&theme=github_dark)
 
 ---
 
